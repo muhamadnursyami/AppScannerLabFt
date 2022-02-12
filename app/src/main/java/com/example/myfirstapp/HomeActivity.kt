@@ -18,7 +18,7 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
 
-
+        supportActionBar!!.hide()
 
 
         if (ContextCompat.checkSelfPermission(this, Manifest.permission.CAMERA) ==
