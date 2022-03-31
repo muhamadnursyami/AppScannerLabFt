@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: com.github.yuriy-budiyev:code-scanner:2.1.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ea8df85abcfa8f7c21b696a46a8c8857/transformed/jetified-code-scanner-2.1.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/92b1950846b2096140a57ee1c0094ca8/transformed/jetified-code-scanner-2.1.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ea8df85abcfa8f7c21b696a46a8c8857/transformed/jetified-code-scanner-2.1.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea8df85abcfa8f7c21b696a46a8c8857/transformed/jetified-code-scanner-2.1.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ea8df85abcfa8f7c21b696a46a8c8857/transformed/jetified-code-scanner-2.1.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/92b1950846b2096140a57ee1c0094ca8/transformed/jetified-code-scanner-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/92b1950846b2096140a57ee1c0094ca8/transformed/jetified-code-scanner-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/92b1950846b2096140a57ee1c0094ca8/transformed/jetified-code-scanner-2.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yuriy-budiyev/code-scanner/2.1.0/f3c4f549eac6c10d4fb58a30d989524f926ef806/code-scanner-2.1.0-javadoc.jar!/" />
